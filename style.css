@@ -158,10 +158,10 @@ div.header {
 p, li {
   position: relative;
   margin: 1.666em 0;
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;;
 }
 
-h1 {font-family: 'Space Mono', monospace;font-size: 1.5625rem;line-height: 36px;font-weight: 700;margin-bottom: 24px}
+h1 {font-family: 'IBM Plex Mono', monospace;;font-size: 1.5625rem;line-height: 36px;font-weight: 700;margin-bottom: 24px}
 
 h1 a {
   color: {{text_color}};
@@ -171,9 +171,9 @@ h1 a:hover {
   color: {{accent_color}}
 }
 
-h2 {font-family: 'Space Mono', monospace;font-size: 1.3125rem;font-weight: bold;line-height: 30px;margin: 48px 0 30px}
+h2 {font-family: 'IBM Plex Mono', monospace;font-size: 1.3125rem;font-weight: bold;line-height: 30px;margin: 48px 0 30px}
 
-h3, h4, h5, h6 {font-family: 'Space Mono', monospace;font-size: 1.0625rem;font-weight: bold;line-height: 24px;margin: 48px 0 24px}
+h3, h4, h5, h6 {font-family: 'IBM Plex Mono', monospace;;font-size: 1.0625rem;font-weight: bold;line-height: 24px;margin: 48px 0 24px}
 blockquote {
   padding: 0 0 0 12px;
   color: {{text_color}};
@@ -352,7 +352,7 @@ iframe {width: 100%;}
 #logo {
   color: {{text_color}};
   font-size: 40px;
-  font-family: 'Space Mono', monospace;
+  font-family: 'IBM Plex Mono', monospace;
   font-weight: 700;
 
 }
@@ -365,7 +365,7 @@ iframe {width: 100%;}
 #logo img:active {margin-top: 1px}
 
 /* Nav links are underlined which affects their optical lineheight */
-div.header a {font-family: 'Space Mono', monospace;margin-right: 1rem;color: {{nav_color}};text-decoration: none}
+div.header a {font-family: 'IBM Plex Mono', monospace;margin-right: 1rem;color: {{nav_color}};text-decoration: none}
 div.header a:hover {text-decoration: underline;}
 div.header .tags a {opacity: 1.0}
 
